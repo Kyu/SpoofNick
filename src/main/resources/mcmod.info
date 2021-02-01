@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spoofnick",
+  "name": "Spoof Nick",
+  "description": "Spoofs nicks and skins and capes",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Precious O."],
+  "credits": "github.com/Kyu",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
